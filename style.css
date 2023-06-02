@@ -1,0 +1,122 @@
+img{
+    display:flex;
+    margin-left:100px;
+}
+div{
+    /* padding:10px; */
+    margin:90px;
+    /* height: 700px; */
+    display:flex; 
+}
+.img{
+    height:10%;
+    margin:0%;
+    padding:auto;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:200px;
+    height:100px;   
+} 
+.indx2{
+    font-size: larger;
+    text-align: center;
+    height:30px; 
+    background-color: rgb(232, 226, 213);
+    margin:10%;
+   font-family: Arial, Helvetica, sans-serif;
+   text-decoration: none;
+} 
+.com{
+    font-size: larger;
+    text-align: center;
+    height:30px; 
+    background-color: rgb(235, 231, 222);
+  font-family: Arial, Helvetica, sans-serif;
+    margin:10%;
+} 
+.img0{
+    height: 300px;
+    background-color: rgb(237, 237, 237);
+    margin-left:10%;
+}
+.img1{
+    height: 300px;
+    background-color: rgb(237, 237, 237);
+    margin-left:10%;
+}
+.img2{
+    height: 300px;
+    background-color: rgb(237, 237, 237);
+    margin-left:10%;
+}
+.h2{
+ padding:10%;
+}
+div.h1{ 
+    text-align: center;
+    margin-left:20%;
+    display: flex;
+}
+div.h2{ 
+    text-align: center;
+    margin-left:20%;
+    display: flex;
+}
+div.h3{ 
+    text-align: center;
+    margin-left:20%;
+    display: flex;
+}
+footer{
+    height: 90px;
+    margin:90px;
+}
+.escolha{
+    margin:20px;
+    height:5px;
+}
+.texto{
+    height:5px;
+}
+.img4{
+    height:600px;
+    box-shadow:10px;
+}
+.img5{
+    height: 300px;
+    background-color: rgb(237, 237, 237);
+    margin-left:10%;
+}
+.img6{
+    height: 300px;
+    background-color: rgb(237, 237, 237);
+    margin-left:10%;
+}
+.img7{
+    height: 300px;
+    background-color: rgb(237, 237, 237);
+    margin-left:10%;
+}
+.img8{
+    height: 300px;
+    background-color: rgb(237, 237, 237);
+    margin-left:10%;
+}
+.img9{
+    height: 300px;
+    background-color: rgb(237, 237, 237);
+    margin-left:10%;
+}
+.img10{
+    height: 300px;
+    background-color: rgb(237, 237, 237);
+    margin-left:10%;
+}
+.aneissolitarios{
+    margin:5px;
+    height:5px;
+}
+a{
+ background-color: rgb(237, 237, 237);
+}
